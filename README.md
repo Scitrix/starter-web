@@ -9,6 +9,7 @@ something
 
 ## How To Contribute
 Sample website with plenty of files for demos
+Please fork this repository and then issue pull requests for review.
 
 ### Copyright
 Git.training 2014
